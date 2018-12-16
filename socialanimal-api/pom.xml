@@ -12,7 +12,7 @@
 	<artifactId>socialanimal-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<description>Socialanimal Api WebService</description>
+	<description>socialanimal api webservice</description>
 
 	<properties>
 		<java.version>1.8</java.version>
