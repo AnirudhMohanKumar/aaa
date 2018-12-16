@@ -9,6 +9,5 @@ public class SocialanimalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SocialanimalApplication.class, args);
 	}
-
 }
 
